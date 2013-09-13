@@ -12,7 +12,7 @@ image:
 comments: true  
 ---
 
-# Minimal Acrobatics
+
 
 A new trend in the application community is interaction between apps.  What exactly is that you say?  Well, in code speak it could be called callbacks.  As the app community evolves and matures developers find new ways to make apps more useful.  As an app developer, you soon realize that your app can't do everything.  The power of your app interacting with another app is priceless.  Sort of like the saying one plus one equals three.  Bonkers I know, but it is the truth.  There is some synergy when apps learn to work together for the greater good.
 
