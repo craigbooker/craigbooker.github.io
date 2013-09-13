@@ -4,7 +4,7 @@ title: Minimal Acrobatics
 description: "As an app developer, you soon realize that your app can't do everything.  The power of your app interacting with another app is priceless."
 modified: 2013-05-31
 category: articles
-tags: [sample post]
+tags: [app development]
 image:
 
   credit: Craig Booker
